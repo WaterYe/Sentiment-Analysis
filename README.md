@@ -73,7 +73,7 @@ Create Deployment
 
 ![pods](https://i.imgur.com/mpqTp12.jpg)
 
-Modify yaml config file to expose port 5000
+Modify yaml config file to expose port 
 
 ![yaml](https://i.imgur.com/AMOZhtF.jpg)
 
@@ -92,7 +92,7 @@ Create Deployment
 ![pods](https://i.imgur.com/QVtIDwE.jpg)
 ![deployment](https://i.imgur.com/uU08NDz.jpg)
 
-Modify yaml config file to expose port 5000
+Modify yaml config file to expose port 8080
 
 ![yaml](https://i.imgur.com/621wWj5.jpg)
 
